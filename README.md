@@ -7,7 +7,7 @@
 
 ## <p align="center"><img src="Images_for_README/heart.png" width=40px> ***_Introducing My New Project Generation Music Player_*** <img src="Images_for_README/heart.png" width=40px></p>
 
-<p align="center"><img src="Images_for_README/music_player.jpg"></p>
+<p align="center"><img src="Images_for_README/music_gif.gif"></p>
 
 ---
 ### <p align="center">💡 ***_This is a Multi-Functioning Music Player, a Basic Project in Python_*** 💡</p>
@@ -76,6 +76,6 @@ Mutagen is a Python module to handle audio metadata. It supports ASF, FLAC, MP4,
 ---
 ### <p align="center">***_Show <img src="Images_for_README/heart.png" width=30px> by Starring this Repo_***</p>
 
-- ### ***_[Project Video Coming Soon]()_***
+- ### ***_[Click to View the Project Video](https://youtu.be/Q-YHVdA9pe0)_***
 
 - ### ***_[Connect With Me on LinkedIn to Get Regular Project Updates](https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/ "LCO")_***
